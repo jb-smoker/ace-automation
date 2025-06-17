@@ -4,7 +4,7 @@ locals {
     "*.amazonaws.com",
     "cloud.google.com",
     "*.microsoft.com",
-    ""
+    "*.aviatrix.com"
   ]
 }
 
